@@ -1,0 +1,16 @@
+﻿transaction_id,user_id,amount,transaction_time,merchant_category,location,device_type,payment_method,failed_attempts,is_fraud
+100001,501,2500.5,6/1/2026 10:15,Electronics,Mumbai,Mobile,UPI,0,FALSE
+100002,502,55000,6/1/2026 1:20,Luxury,Pune,Web,Card,2,TRUE
+100003,503,1200,6/1/2026 14:30,Grocery,Delhi,Mobile,Wallet,0,FALSE
+100004,504,75000,6/1/2026 2:45,Jewelry,Bangalore,Web,Card,4,TRUE
+100005,505,800,6/1/2026 11:00,Food,Hyderabad,POS,UPI,0,FALSE
+100006,506,45000,6/1/2026 23:10,Electronics,Chennai,Mobile,Net Banking,1,TRUE
+100007,507,600,6/2/2026 9:20,Grocery,Mumbai,POS,UPI,0,FALSE
+100008,508,98000,6/2/2026 3:15,Luxury,Delhi,Web,Card,5,TRUE
+100009,509,2200,6/2/2026 13:45,Food,Pune,Mobile,Wallet,0,FALSE
+100010,510,150000,6/2/2026 0:30,Jewelry,Mumbai,Web,Card,6,TRUE
+100011,511,1800,6/2/2026 16:10,Grocery,Bangalore,POS,UPI,0,FALSE
+100012,512,32000,6/2/2026 22:50,Electronics,Hyderabad,Mobile,Card,2,TRUE
+100013,513,900,6/3/2026 12:20,Food,Chennai,POS,Wallet,0,FALSE
+100014,514,67000,6/3/2026 1:40,Luxury,Pune,Web,Net Banking,3,TRUE
+100015,515,3000,6/3/2026 18:00,Electronics,Delhi,Mobile,UPI,0,FALSE

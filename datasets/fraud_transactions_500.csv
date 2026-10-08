@@ -1,0 +1,501 @@
+transaction_id,user_id,amount,transaction_time,merchant_category,location,device_type,payment_method,failed_attempts,is_fraud
+100001,1517,58158.61,2026-06-05 03:45:03,Luxury,Mumbai,Web,UPI,0,False
+100002,749,30031.97,2026-04-18 00:45:55,Electronics,Chennai,POS,Net Banking,4,False
+100003,913,123900.77,2026-05-05 06:12:15,Luxury,Chennai,Web,Net Banking,2,False
+100004,991,75785.15,2026-02-06 19:05:32,Food,Chennai,POS,UPI,4,False
+100005,1765,65876.3,2026-03-29 18:09:03,Food,Chennai,Web,Wallet,2,False
+100006,1745,9998.36,2026-04-11 16:58:17,Food,Hyderabad,Web,Wallet,3,False
+100007,545,98906.14,2026-02-15 18:55:22,Luxury,Mumbai,Web,UPI,0,False
+100008,1418,18194.93,2026-02-14 08:13:11,Jewelry,Delhi,POS,Card,1,False
+100009,1014,2391.65,2026-02-10 19:42:32,Jewelry,Hyderabad,Web,Net Banking,4,False
+100010,1433,91765.41,2026-05-23 11:40:03,Jewelry,Chennai,Web,Net Banking,4,False
+100011,1560,75766.7,2026-02-13 01:14:16,Electronics,Pune,POS,UPI,3,True
+100012,650,21371.08,2026-06-17 06:24:45,Food,Pune,Mobile,UPI,4,False
+100013,921,97277.46,2026-06-05 21:53:37,Food,Bangalore,POS,UPI,1,False
+100014,1518,109911.64,2026-03-14 20:22:58,Jewelry,Pune,POS,UPI,2,False
+100015,1252,15352.11,2026-02-24 00:24:27,Electronics,Chennai,Mobile,Net Banking,1,False
+100016,970,123797.34,2026-05-25 12:06:23,Food,Bangalore,POS,Card,5,False
+100017,695,79265.18,2026-02-12 21:53:27,Food,Bangalore,POS,Net Banking,2,False
+100018,514,128751.99,2026-02-19 20:16:17,Electronics,Chennai,POS,Wallet,0,False
+100019,1015,86495.98,2026-05-10 18:59:21,Electronics,Delhi,POS,UPI,2,False
+100020,941,102268.5,2026-06-07 14:46:30,Electronics,Mumbai,Web,Card,2,False
+100021,887,62471.12,2026-05-01 11:29:32,Food,Mumbai,POS,Net Banking,3,False
+100022,1638,36513.87,2026-03-14 09:36:15,Luxury,Hyderabad,Web,UPI,1,False
+100023,567,50961.43,2026-01-03 09:05:50,Jewelry,Chennai,Mobile,Wallet,3,False
+100024,597,92622.04,2026-04-17 05:19:36,Food,Chennai,Web,Wallet,4,False
+100025,1066,37485.8,2026-03-28 13:30:50,Food,Bangalore,POS,Wallet,3,False
+100026,801,17366.27,2026-04-22 04:27:07,Jewelry,Delhi,Web,UPI,1,False
+100027,1407,36836.26,2026-01-17 05:06:52,Food,Bangalore,Web,Card,1,False
+100028,506,109238.51,2026-06-09 10:35:39,Food,Hyderabad,Mobile,Card,1,False
+100029,517,71281.64,2026-02-01 18:59:17,Food,Delhi,Mobile,Card,3,False
+100030,1291,22104.14,2026-03-05 03:55:22,Electronics,Chennai,Web,Card,1,False
+100031,1956,43687.18,2026-03-01 01:22:20,Luxury,Bangalore,Web,Wallet,3,False
+100032,1308,84678.66,2026-04-25 07:19:05,Food,Delhi,Mobile,Card,3,False
+100033,1092,48798.89,2026-04-02 10:46:54,Electronics,Delhi,Web,Wallet,4,False
+100034,1147,55409.83,2026-03-06 19:08:07,Jewelry,Hyderabad,Web,Wallet,1,False
+100035,1264,65320.94,2026-05-16 18:52:56,Jewelry,Bangalore,POS,UPI,5,False
+100036,1173,2909.24,2026-01-29 00:19:27,Food,Mumbai,Mobile,Net Banking,2,False
+100037,1931,136703.69,2026-03-09 04:34:57,Food,Chennai,Mobile,Net Banking,1,False
+100038,814,98880.36,2026-04-04 19:10:08,Food,Bangalore,POS,Wallet,0,False
+100039,762,26100.85,2026-03-12 10:11:06,Electronics,Bangalore,Mobile,Wallet,2,False
+100040,648,55081.97,2026-06-11 23:37:31,Electronics,Bangalore,POS,Wallet,1,False
+100041,1535,90034.9,2026-05-26 06:37:27,Food,Hyderabad,Mobile,UPI,3,False
+100042,1066,145371.32,2026-03-06 04:51:53,Food,Mumbai,Web,Wallet,2,False
+100043,512,42335.87,2026-06-05 02:18:11,Food,Mumbai,POS,Card,3,False
+100044,1510,86975.06,2026-01-08 05:24:58,Luxury,Bangalore,Web,Wallet,5,False
+100045,855,136307.27,2026-06-15 20:05:39,Jewelry,Delhi,Web,Card,0,False
+100046,746,16548.2,2026-04-29 18:29:14,Jewelry,Chennai,Web,Wallet,5,False
+100047,1259,117434.32,2026-06-08 22:36:59,Jewelry,Delhi,Mobile,Wallet,2,False
+100048,1187,96079.74,2026-03-27 00:16:17,Electronics,Mumbai,POS,Wallet,4,True
+100049,1665,67778.01,2026-03-23 14:34:18,Luxury,Pune,Mobile,UPI,4,False
+100050,1900,17452.22,2026-04-09 19:26:28,Food,Chennai,Mobile,Card,2,False
+100051,628,67359.16,2026-06-04 19:51:27,Electronics,Delhi,POS,Card,0,False
+100052,1006,11038.29,2026-05-08 16:51:02,Luxury,Chennai,Web,Card,2,False
+100053,1341,119957.21,2026-03-15 20:26:13,Electronics,Pune,Web,Net Banking,2,False
+100054,1810,146622.21,2026-01-26 00:42:43,Electronics,Chennai,POS,Net Banking,4,True
+100055,511,19321.8,2026-02-26 21:09:47,Electronics,Bangalore,Mobile,Net Banking,4,False
+100056,1021,46267.48,2026-02-22 17:24:06,Food,Mumbai,Mobile,Card,4,False
+100057,1164,48071.05,2026-01-13 06:53:19,Luxury,Pune,POS,Net Banking,0,False
+100058,528,30464.71,2026-03-26 11:08:03,Luxury,Chennai,Mobile,Net Banking,4,False
+100059,1005,21131.47,2026-04-22 03:53:13,Jewelry,Bangalore,Web,Card,2,False
+100060,1084,105545.68,2026-04-27 14:33:55,Jewelry,Hyderabad,POS,UPI,3,False
+100061,1955,120155.91,2026-01-12 14:43:08,Jewelry,Hyderabad,Mobile,UPI,0,False
+100062,1172,132171.15,2026-02-26 03:18:51,Electronics,Mumbai,Mobile,UPI,2,False
+100063,551,27874.77,2026-05-10 18:42:23,Luxury,Delhi,POS,Net Banking,0,False
+100064,1895,140719.48,2026-01-11 16:59:06,Electronics,Bangalore,Web,Wallet,4,False
+100065,1290,12408.51,2026-01-26 02:53:56,Electronics,Pune,Mobile,Card,4,False
+100066,1168,80714.85,2026-04-17 05:30:59,Electronics,Delhi,Mobile,UPI,1,False
+100067,1772,141206.01,2026-05-30 11:10:23,Jewelry,Delhi,POS,Wallet,1,False
+100068,1641,114722.36,2026-03-23 18:38:37,Luxury,Hyderabad,Mobile,Card,4,False
+100069,694,105662.07,2026-06-07 10:36:57,Luxury,Chennai,Web,Net Banking,3,False
+100070,990,67271.15,2026-01-14 05:35:51,Luxury,Bangalore,Mobile,UPI,3,False
+100071,1886,19081.62,2026-04-28 16:37:55,Food,Mumbai,Mobile,Net Banking,5,False
+100072,649,136160.21,2026-02-18 09:16:46,Jewelry,Chennai,POS,Wallet,5,False
+100073,1812,35154.84,2026-02-22 20:46:39,Jewelry,Chennai,Web,Wallet,0,False
+100074,1813,66051.37,2026-05-13 00:53:18,Food,Mumbai,POS,UPI,3,True
+100075,840,65991.07,2026-02-01 11:52:36,Electronics,Hyderabad,Web,Net Banking,5,False
+100076,878,95275.21,2026-06-07 12:13:48,Food,Bangalore,POS,Net Banking,2,False
+100077,773,25876.95,2026-04-28 07:40:59,Luxury,Hyderabad,POS,UPI,5,False
+100078,733,67316.13,2026-01-06 10:52:31,Jewelry,Chennai,Mobile,Wallet,0,False
+100079,1706,48936.42,2026-04-08 13:20:32,Jewelry,Bangalore,POS,UPI,2,False
+100080,1089,22233.28,2026-03-12 07:50:01,Electronics,Mumbai,POS,UPI,4,False
+100081,1664,33463.61,2026-01-18 01:02:45,Luxury,Pune,Web,Net Banking,1,False
+100082,1993,113553.69,2026-04-04 05:48:56,Food,Chennai,POS,UPI,5,False
+100083,612,63182.14,2026-05-19 02:51:37,Luxury,Chennai,Mobile,UPI,1,False
+100084,1860,117685.39,2026-02-27 21:13:41,Food,Bangalore,POS,UPI,4,False
+100085,1704,122474.03,2026-02-22 22:56:29,Jewelry,Pune,Mobile,Card,0,False
+100086,769,18126.26,2026-02-28 14:49:36,Luxury,Chennai,Web,Wallet,2,False
+100087,716,8149.74,2026-06-08 11:02:07,Jewelry,Pune,Mobile,Wallet,2,False
+100088,1402,31473.43,2026-04-17 03:36:34,Food,Bangalore,Mobile,Wallet,5,False
+100089,1939,88591.82,2026-05-12 21:50:01,Electronics,Mumbai,Mobile,UPI,2,False
+100090,1142,81188.68,2026-06-20 13:31:40,Luxury,Hyderabad,Web,UPI,2,False
+100091,639,9681.57,2026-04-26 04:46:27,Luxury,Hyderabad,Mobile,UPI,1,False
+100092,1273,56892.04,2026-04-28 02:20:39,Luxury,Bangalore,Mobile,UPI,4,True
+100093,1115,54004.7,2026-05-02 08:05:58,Jewelry,Hyderabad,Web,Card,2,False
+100094,1994,17466.08,2026-06-10 05:48:37,Food,Bangalore,Web,UPI,1,False
+100095,1561,7565.78,2026-01-18 23:44:32,Jewelry,Chennai,Web,Card,0,False
+100096,1373,108904.87,2026-02-14 01:46:22,Electronics,Hyderabad,Mobile,UPI,4,True
+100097,1416,32393.74,2026-03-30 23:40:55,Jewelry,Chennai,Mobile,Wallet,1,False
+100098,1846,114938.89,2026-04-20 11:17:17,Luxury,Mumbai,Mobile,Wallet,1,False
+100099,1035,63681.24,2026-01-05 13:02:31,Food,Mumbai,POS,UPI,5,False
+100100,1507,75438.29,2026-01-27 13:57:36,Electronics,Delhi,POS,Net Banking,0,False
+100101,1141,63321.13,2026-02-13 22:23:47,Luxury,Chennai,POS,Card,2,False
+100102,539,58587.68,2026-04-18 01:59:28,Jewelry,Mumbai,POS,Wallet,0,False
+100103,1515,51916.87,2026-05-24 20:59:20,Electronics,Chennai,Mobile,UPI,2,False
+100104,1500,72678.73,2026-03-06 16:50:34,Luxury,Bangalore,Mobile,Net Banking,2,False
+100105,1388,466.06,2026-06-20 12:01:36,Electronics,Chennai,Mobile,Net Banking,4,False
+100106,1892,67724.37,2026-03-30 18:40:29,Jewelry,Hyderabad,Web,Card,4,False
+100107,885,40120.45,2026-02-15 16:50:25,Jewelry,Pune,POS,Card,2,False
+100108,1054,120980.7,2026-01-03 03:15:20,Luxury,Bangalore,POS,Wallet,2,False
+100109,1272,113575.73,2026-02-17 20:05:45,Luxury,Hyderabad,POS,Wallet,2,False
+100110,1715,19716.74,2026-02-16 07:57:19,Electronics,Hyderabad,POS,Net Banking,0,False
+100111,1205,2434.93,2026-02-19 22:29:43,Jewelry,Delhi,Mobile,Wallet,2,False
+100112,579,75607.85,2026-06-02 23:34:37,Electronics,Bangalore,Web,UPI,1,False
+100113,1698,26803.28,2026-01-31 12:27:02,Electronics,Pune,Web,UPI,1,False
+100114,1218,95908.4,2026-04-14 13:45:31,Food,Chennai,POS,UPI,1,False
+100115,1861,42393.46,2026-04-16 11:24:36,Food,Chennai,POS,UPI,3,False
+100116,743,88352.9,2026-06-02 15:45:19,Luxury,Mumbai,POS,Card,1,False
+100117,1814,80970.41,2026-02-01 12:29:00,Jewelry,Pune,Web,Wallet,4,False
+100118,847,789.66,2026-04-23 08:37:06,Jewelry,Hyderabad,POS,Net Banking,0,False
+100119,547,57000.43,2026-01-18 08:48:07,Luxury,Bangalore,POS,Card,2,False
+100120,1634,75755.01,2026-03-14 23:08:36,Food,Delhi,Mobile,Wallet,2,False
+100121,1111,47561.09,2026-06-04 13:45:59,Luxury,Chennai,Mobile,Card,3,False
+100122,601,146891.33,2026-03-08 05:31:21,Jewelry,Hyderabad,Mobile,UPI,0,False
+100123,858,144184.12,2026-03-09 15:25:13,Food,Hyderabad,POS,Net Banking,0,False
+100124,1519,14435.26,2026-04-18 10:21:27,Jewelry,Pune,Web,Wallet,5,False
+100125,909,104913.26,2026-06-11 23:49:06,Food,Chennai,Web,Net Banking,5,False
+100126,1031,13332.52,2026-01-27 10:54:30,Food,Hyderabad,POS,UPI,1,False
+100127,1405,66320.57,2026-05-26 18:16:06,Food,Mumbai,Mobile,Wallet,5,False
+100128,1733,58376.34,2026-04-14 05:25:07,Jewelry,Mumbai,Web,UPI,4,False
+100129,1410,112407.32,2026-02-07 08:14:36,Food,Mumbai,POS,Card,4,False
+100130,1858,107965.07,2026-05-06 20:38:41,Jewelry,Hyderabad,Web,Wallet,3,False
+100131,1943,45449.72,2026-01-22 02:34:45,Electronics,Hyderabad,Web,Card,0,False
+100132,1401,126959.22,2026-06-04 15:19:45,Electronics,Chennai,Mobile,Net Banking,3,False
+100133,1455,95942.4,2026-03-14 04:28:15,Luxury,Mumbai,Web,Card,0,False
+100134,1092,25915.59,2026-04-06 22:30:20,Food,Chennai,Web,UPI,2,False
+100135,1307,143513.55,2026-03-16 10:50:23,Electronics,Chennai,POS,UPI,0,False
+100136,1243,4739.52,2026-02-26 19:04:14,Electronics,Pune,Mobile,UPI,5,False
+100137,1510,135330.45,2026-05-09 07:53:44,Electronics,Bangalore,Web,Card,5,False
+100138,1379,17323.3,2026-01-06 11:45:48,Jewelry,Chennai,Web,Wallet,4,False
+100139,739,95128.83,2026-05-05 00:08:31,Jewelry,Delhi,Web,Card,0,False
+100140,947,33967.07,2026-04-08 18:41:46,Luxury,Bangalore,POS,Card,5,False
+100141,1875,34901.77,2026-01-01 22:13:04,Food,Mumbai,Mobile,Net Banking,0,False
+100142,1664,100482.92,2026-01-15 06:45:57,Electronics,Delhi,Web,Card,2,False
+100143,1276,105279.78,2026-04-19 23:31:15,Electronics,Pune,POS,UPI,4,False
+100144,1694,24418.11,2026-01-15 11:03:17,Electronics,Chennai,Web,UPI,0,False
+100145,1135,1046.62,2026-06-10 20:36:39,Electronics,Bangalore,Mobile,UPI,5,False
+100146,1196,93131.75,2026-02-16 06:10:35,Electronics,Delhi,Web,Net Banking,2,False
+100147,1599,113693.43,2026-01-03 04:48:50,Electronics,Pune,Web,Net Banking,5,True
+100148,845,19728.18,2026-03-03 19:12:33,Food,Hyderabad,Mobile,Wallet,0,False
+100149,666,14943.87,2026-02-16 00:43:31,Food,Chennai,Web,Wallet,3,False
+100150,1946,98536.5,2026-02-18 14:39:05,Food,Pune,Web,UPI,3,False
+100151,1740,143205.78,2026-04-16 17:02:29,Jewelry,Hyderabad,POS,Net Banking,3,False
+100152,1556,144873.74,2026-03-30 17:33:44,Electronics,Mumbai,Mobile,Card,4,False
+100153,919,39424.2,2026-03-27 19:08:46,Food,Chennai,Web,Wallet,4,False
+100154,1581,17264.11,2026-05-24 09:52:23,Jewelry,Bangalore,Web,Wallet,1,False
+100155,1792,69441.54,2026-01-17 22:11:19,Jewelry,Delhi,Web,UPI,4,False
+100156,1690,56312.16,2026-05-19 17:39:32,Food,Mumbai,Web,Net Banking,3,False
+100157,1367,122914.62,2026-03-10 23:52:41,Food,Chennai,Web,Net Banking,1,False
+100158,1701,80732.95,2026-02-10 21:36:08,Luxury,Delhi,Mobile,Net Banking,3,False
+100159,999,56907.95,2026-03-28 16:37:28,Jewelry,Mumbai,Web,UPI,3,False
+100160,1401,56984.78,2026-02-17 14:36:19,Food,Mumbai,POS,UPI,2,False
+100161,1537,28677.47,2026-04-24 17:41:22,Electronics,Chennai,Mobile,Card,1,False
+100162,1938,119893.28,2026-02-10 09:37:57,Jewelry,Hyderabad,Mobile,Card,2,False
+100163,561,112392.27,2026-01-10 15:02:02,Food,Bangalore,Web,Wallet,3,False
+100164,1187,107397.28,2026-03-03 03:50:46,Jewelry,Chennai,POS,Net Banking,0,False
+100165,1296,69415.33,2026-06-01 01:36:15,Electronics,Chennai,Web,UPI,4,True
+100166,1976,15840.56,2026-05-16 10:46:17,Luxury,Mumbai,POS,Wallet,1,False
+100167,1262,9887.41,2026-06-19 14:34:39,Jewelry,Mumbai,Mobile,Net Banking,1,False
+100168,1017,13044.23,2026-03-27 02:28:11,Food,Hyderabad,Web,Wallet,4,False
+100169,618,61272.7,2026-05-18 02:27:31,Jewelry,Pune,Mobile,Wallet,1,False
+100170,1645,141396.23,2026-01-25 17:51:27,Luxury,Mumbai,Mobile,Card,1,False
+100171,566,103096.3,2026-04-25 19:45:32,Electronics,Chennai,Web,Net Banking,4,False
+100172,1781,101359.29,2026-04-26 05:07:40,Electronics,Chennai,Mobile,UPI,4,False
+100173,1888,112494.41,2026-06-14 13:10:57,Jewelry,Pune,Web,UPI,3,False
+100174,1938,54091.9,2026-04-14 06:43:53,Food,Pune,POS,Net Banking,1,False
+100175,856,1581.03,2026-04-19 02:58:48,Jewelry,Pune,POS,UPI,1,False
+100176,1704,55993.0,2026-06-02 17:13:39,Jewelry,Delhi,Mobile,Net Banking,1,False
+100177,793,64595.98,2026-06-06 13:14:23,Jewelry,Bangalore,POS,Card,5,False
+100178,1880,3426.17,2026-01-03 21:49:51,Electronics,Pune,Mobile,UPI,4,False
+100179,1915,104812.47,2026-04-05 04:27:54,Jewelry,Hyderabad,Web,UPI,0,False
+100180,1677,36755.1,2026-04-04 18:29:37,Jewelry,Hyderabad,Web,Card,0,False
+100181,1703,49113.79,2026-01-06 23:39:12,Electronics,Mumbai,POS,Net Banking,4,False
+100182,695,67269.73,2026-05-25 16:34:50,Food,Pune,POS,Card,2,False
+100183,914,34162.15,2026-05-22 08:23:38,Food,Mumbai,POS,UPI,3,False
+100184,1689,142813.68,2026-04-21 21:20:13,Jewelry,Mumbai,Mobile,Wallet,0,False
+100185,853,107892.54,2026-05-23 15:24:59,Food,Pune,POS,UPI,4,False
+100186,1296,67865.99,2026-06-21 23:51:09,Jewelry,Pune,Mobile,Wallet,3,False
+100187,819,60105.74,2026-04-07 04:21:47,Luxury,Pune,POS,Wallet,3,True
+100188,1465,107567.4,2026-04-24 01:13:08,Jewelry,Hyderabad,Mobile,Card,5,True
+100189,1386,60874.36,2026-06-05 03:59:10,Jewelry,Hyderabad,Web,Card,4,True
+100190,1485,13499.64,2026-03-11 09:19:46,Food,Pune,Mobile,Net Banking,5,False
+100191,1033,73083.46,2026-04-06 06:23:34,Jewelry,Pune,Mobile,Card,3,False
+100192,792,32350.18,2026-01-09 19:13:04,Electronics,Chennai,POS,Wallet,0,False
+100193,759,88358.12,2026-01-29 03:26:20,Food,Hyderabad,POS,Card,2,False
+100194,972,148683.86,2026-02-19 13:30:52,Electronics,Chennai,Mobile,Wallet,5,False
+100195,1922,49178.32,2026-05-25 12:11:52,Electronics,Delhi,POS,Net Banking,0,False
+100196,509,120084.09,2026-04-25 20:56:13,Electronics,Pune,Web,Wallet,1,False
+100197,1203,32357.49,2026-05-24 13:02:46,Jewelry,Chennai,Mobile,Card,2,False
+100198,1885,108812.15,2026-06-09 04:41:02,Jewelry,Bangalore,POS,UPI,1,False
+100199,1990,112397.93,2026-04-30 06:46:59,Electronics,Bangalore,Web,Card,3,False
+100200,603,99892.55,2026-01-30 06:08:45,Jewelry,Delhi,Mobile,Wallet,4,False
+100201,1439,103855.06,2026-05-01 11:55:13,Jewelry,Mumbai,Web,Net Banking,3,False
+100202,1795,143193.58,2026-01-25 19:52:22,Luxury,Pune,POS,UPI,4,False
+100203,1348,19218.86,2026-05-19 09:14:32,Food,Delhi,POS,Card,5,False
+100204,1701,118761.11,2026-04-06 15:57:40,Jewelry,Bangalore,POS,Card,3,False
+100205,1071,118415.92,2026-01-09 09:51:09,Luxury,Mumbai,Mobile,Wallet,5,False
+100206,1708,115728.96,2026-03-01 03:24:48,Electronics,Hyderabad,Mobile,Wallet,1,False
+100207,1646,115012.19,2026-01-08 02:05:56,Food,Hyderabad,Mobile,Card,5,True
+100208,903,12388.59,2026-01-15 22:31:52,Food,Mumbai,Web,Net Banking,3,False
+100209,853,21670.43,2026-04-07 22:43:15,Food,Pune,Web,Net Banking,5,False
+100210,533,94426.95,2026-05-21 13:00:45,Luxury,Mumbai,Mobile,Wallet,1,False
+100211,1282,26444.63,2026-02-19 08:56:51,Luxury,Mumbai,POS,Net Banking,5,False
+100212,546,63806.04,2026-04-29 23:54:51,Luxury,Bangalore,Mobile,UPI,5,False
+100213,1817,43651.66,2026-05-22 03:24:40,Food,Mumbai,POS,Wallet,5,False
+100214,987,79617.53,2026-04-13 22:13:01,Food,Pune,POS,Card,5,False
+100215,1691,93652.91,2026-06-03 23:11:27,Food,Chennai,Web,Wallet,3,False
+100216,1776,26353.03,2026-06-01 03:46:45,Electronics,Delhi,Mobile,UPI,3,False
+100217,1348,121191.68,2026-06-11 10:18:42,Jewelry,Bangalore,POS,Wallet,2,False
+100218,1807,71114.59,2026-05-07 12:46:58,Jewelry,Delhi,POS,Net Banking,1,False
+100219,1825,12203.38,2026-06-09 10:30:21,Food,Pune,Mobile,Wallet,0,False
+100220,1619,81929.98,2026-04-17 13:14:14,Jewelry,Chennai,POS,Card,3,False
+100221,1726,23396.57,2026-04-23 02:59:29,Electronics,Chennai,Web,Card,5,False
+100222,1895,85751.22,2026-01-01 10:32:29,Jewelry,Pune,POS,Card,4,False
+100223,783,136040.07,2026-01-28 21:00:41,Food,Pune,Web,Net Banking,4,False
+100224,621,24225.77,2026-02-20 02:10:08,Electronics,Chennai,Web,Wallet,4,False
+100225,555,135627.4,2026-02-08 17:16:33,Electronics,Bangalore,Mobile,Net Banking,3,False
+100226,1692,96307.84,2026-06-04 17:03:16,Food,Mumbai,Web,Wallet,5,False
+100227,1855,146820.44,2026-04-15 12:32:22,Food,Mumbai,POS,UPI,0,False
+100228,797,78665.06,2026-01-10 18:34:20,Luxury,Chennai,Web,UPI,5,False
+100229,1079,2177.16,2026-04-05 05:32:36,Food,Bangalore,POS,Net Banking,4,False
+100230,1143,140122.49,2026-01-20 10:17:26,Luxury,Hyderabad,POS,Wallet,0,False
+100231,520,49735.13,2026-05-17 23:19:24,Food,Delhi,Mobile,UPI,4,False
+100232,1899,12705.15,2026-02-12 23:43:51,Luxury,Bangalore,POS,Card,0,False
+100233,1133,25495.48,2026-06-21 15:45:06,Luxury,Mumbai,Mobile,Net Banking,0,False
+100234,1524,62730.73,2026-02-23 02:05:09,Jewelry,Mumbai,Mobile,Card,3,True
+100235,821,113591.07,2026-02-09 23:16:51,Electronics,Hyderabad,Web,UPI,1,False
+100236,733,52184.83,2026-04-06 08:03:13,Luxury,Hyderabad,Web,Wallet,5,False
+100237,1776,77315.1,2026-06-18 16:23:31,Luxury,Bangalore,POS,Wallet,2,False
+100238,634,40036.84,2026-03-16 05:19:30,Food,Chennai,Mobile,UPI,4,False
+100239,1861,50219.43,2026-02-07 06:00:36,Luxury,Bangalore,Mobile,UPI,5,False
+100240,780,7821.02,2026-05-24 08:19:12,Luxury,Mumbai,Web,Card,5,False
+100241,1294,37642.69,2026-05-14 01:27:30,Luxury,Mumbai,POS,Wallet,0,False
+100242,696,100755.67,2026-04-07 22:52:38,Food,Chennai,Mobile,UPI,0,False
+100243,602,19845.06,2026-06-09 15:09:55,Electronics,Mumbai,Mobile,Net Banking,5,False
+100244,1216,125606.19,2026-02-20 05:54:10,Luxury,Chennai,Web,Wallet,1,False
+100245,642,15395.75,2026-05-29 19:02:44,Luxury,Chennai,Web,Wallet,1,False
+100246,1177,14432.64,2026-01-02 14:04:35,Food,Mumbai,Web,Wallet,3,False
+100247,1061,36124.01,2026-06-14 12:10:00,Food,Hyderabad,POS,Card,4,False
+100248,1804,51891.69,2026-02-28 23:14:39,Electronics,Mumbai,Web,Net Banking,1,False
+100249,1617,135665.81,2026-04-07 11:42:57,Electronics,Bangalore,Web,Wallet,2,False
+100250,663,59250.13,2026-01-23 16:13:57,Luxury,Delhi,POS,UPI,2,False
+100251,859,79245.65,2026-01-07 16:16:20,Food,Hyderabad,Web,Card,0,False
+100252,901,13330.37,2026-03-27 11:29:15,Jewelry,Hyderabad,Web,Wallet,3,False
+100253,1098,102358.07,2026-01-26 20:57:25,Food,Delhi,Web,Net Banking,5,False
+100254,942,15583.4,2026-02-10 01:08:02,Jewelry,Chennai,Mobile,Wallet,5,False
+100255,614,41430.85,2026-03-07 11:45:54,Luxury,Hyderabad,POS,Card,4,False
+100256,1763,86988.45,2026-05-16 09:06:13,Jewelry,Pune,Mobile,UPI,4,False
+100257,1002,39844.79,2026-05-09 19:42:35,Food,Bangalore,Mobile,Card,0,False
+100258,1051,70238.87,2026-04-18 22:05:15,Jewelry,Delhi,Web,Wallet,2,False
+100259,871,104565.76,2026-06-22 02:51:34,Electronics,Bangalore,Web,Card,1,False
+100260,688,63921.78,2026-01-10 04:37:56,Food,Delhi,Web,Net Banking,2,False
+100261,1486,27734.22,2026-04-03 04:42:24,Jewelry,Bangalore,Mobile,Card,4,False
+100262,1157,85500.61,2026-05-04 09:40:25,Electronics,Bangalore,POS,Net Banking,1,False
+100263,697,52020.18,2026-01-01 08:18:58,Luxury,Chennai,Web,UPI,5,False
+100264,1006,134630.88,2026-02-23 23:11:24,Food,Bangalore,POS,Net Banking,2,False
+100265,1025,137047.36,2026-01-08 15:35:07,Food,Mumbai,POS,UPI,3,False
+100266,1400,66359.29,2026-02-09 00:44:12,Luxury,Bangalore,POS,UPI,4,True
+100267,1220,79373.65,2026-05-31 08:34:57,Jewelry,Chennai,Mobile,Net Banking,2,False
+100268,1331,110706.85,2026-04-09 02:24:44,Luxury,Delhi,Mobile,UPI,2,False
+100269,1236,133786.79,2026-03-22 03:17:05,Jewelry,Mumbai,Web,Card,2,False
+100270,1733,63831.1,2026-06-07 12:27:45,Food,Delhi,Web,Net Banking,0,False
+100271,833,36088.17,2026-02-24 01:35:36,Food,Delhi,Mobile,Net Banking,4,False
+100272,893,66651.97,2026-04-30 07:10:24,Electronics,Hyderabad,Mobile,Card,3,False
+100273,1959,1810.78,2026-01-06 01:09:56,Electronics,Bangalore,Web,Wallet,0,False
+100274,1021,20100.79,2026-01-14 18:19:19,Food,Delhi,POS,Wallet,4,False
+100275,1550,74112.55,2026-02-20 04:16:39,Jewelry,Bangalore,Web,UPI,2,False
+100276,1505,96936.52,2026-04-08 02:03:20,Electronics,Chennai,Web,Card,5,True
+100277,574,19489.82,2026-01-28 04:56:38,Luxury,Pune,POS,Net Banking,2,False
+100278,1244,122877.77,2026-06-03 10:09:50,Food,Mumbai,Mobile,UPI,3,False
+100279,789,22632.53,2026-06-18 16:01:38,Luxury,Chennai,Mobile,Net Banking,2,False
+100280,1254,42197.77,2026-03-04 04:20:13,Food,Pune,Web,UPI,3,False
+100281,1860,30168.6,2026-02-12 17:46:04,Jewelry,Delhi,Mobile,Card,2,False
+100282,1113,107703.28,2026-02-11 12:01:29,Luxury,Chennai,Web,Card,0,False
+100283,769,13009.55,2026-04-26 17:53:31,Jewelry,Chennai,Mobile,UPI,4,False
+100284,1387,110634.64,2026-02-23 10:50:52,Luxury,Bangalore,Web,Wallet,5,False
+100285,874,66284.33,2026-06-06 07:40:36,Electronics,Chennai,Mobile,Card,0,False
+100286,1784,72615.0,2026-04-20 18:40:35,Luxury,Delhi,POS,Wallet,1,False
+100287,932,100922.41,2026-06-19 13:33:52,Electronics,Hyderabad,POS,Card,0,False
+100288,903,78106.68,2026-03-04 18:02:51,Jewelry,Mumbai,POS,Card,2,False
+100289,986,11036.92,2026-05-09 02:32:21,Jewelry,Chennai,Web,Net Banking,5,False
+100290,1979,76403.65,2026-01-07 12:49:52,Electronics,Chennai,POS,Wallet,1,False
+100291,834,84560.01,2026-03-13 00:31:57,Jewelry,Chennai,Web,UPI,1,False
+100292,1726,7317.34,2026-02-15 05:35:50,Luxury,Hyderabad,Mobile,Card,4,False
+100293,1847,141354.29,2026-01-08 21:52:27,Luxury,Delhi,Mobile,UPI,3,False
+100294,1442,146468.71,2026-02-03 06:35:34,Food,Mumbai,POS,Card,0,False
+100295,642,51964.93,2026-01-11 17:34:28,Food,Hyderabad,Mobile,Wallet,0,False
+100296,687,89249.75,2026-04-01 18:53:41,Luxury,Chennai,POS,Wallet,4,False
+100297,580,30495.18,2026-01-02 07:09:35,Food,Pune,POS,Card,5,False
+100298,1623,113570.26,2026-03-04 13:50:08,Luxury,Mumbai,POS,Card,5,False
+100299,1010,41900.81,2026-06-14 18:16:39,Jewelry,Chennai,Web,Wallet,4,False
+100300,1562,51807.97,2026-04-30 13:20:56,Electronics,Hyderabad,POS,UPI,3,False
+100301,1207,146573.83,2026-02-07 13:59:17,Luxury,Delhi,Web,Net Banking,0,False
+100302,806,129954.3,2026-06-18 11:21:36,Food,Bangalore,Mobile,Wallet,1,False
+100303,970,58847.58,2026-04-10 19:51:27,Electronics,Bangalore,POS,Card,0,False
+100304,1094,31683.18,2026-06-15 11:49:21,Jewelry,Pune,Mobile,Card,1,False
+100305,1494,16745.33,2026-04-20 07:49:43,Luxury,Pune,Web,Wallet,1,False
+100306,1996,14230.73,2026-03-18 21:10:07,Electronics,Delhi,POS,Net Banking,4,False
+100307,1472,50581.53,2026-01-03 10:56:01,Food,Hyderabad,Web,Wallet,5,False
+100308,1299,116715.64,2026-02-01 10:29:18,Food,Bangalore,Mobile,UPI,3,False
+100309,740,87933.78,2026-01-01 11:56:11,Luxury,Chennai,POS,Net Banking,1,False
+100310,735,53528.73,2026-03-26 13:39:04,Food,Chennai,Web,Wallet,5,False
+100311,1712,4604.9,2026-01-26 22:30:33,Jewelry,Chennai,Mobile,Net Banking,0,False
+100312,1273,63640.07,2026-03-05 05:36:49,Electronics,Pune,Mobile,Card,3,False
+100313,666,99975.25,2026-03-06 16:21:40,Jewelry,Mumbai,Mobile,UPI,2,False
+100314,1492,2522.12,2026-06-23 03:53:20,Food,Bangalore,POS,UPI,3,False
+100315,925,8096.75,2026-06-18 18:27:45,Electronics,Chennai,Mobile,Wallet,4,False
+100316,684,83233.42,2026-05-05 10:13:27,Jewelry,Pune,Web,Card,3,False
+100317,725,73405.82,2026-02-13 13:25:46,Electronics,Mumbai,Mobile,Wallet,2,False
+100318,1481,108024.73,2026-01-03 00:37:22,Luxury,Chennai,Web,Wallet,4,True
+100319,1688,97689.6,2026-02-18 03:09:31,Luxury,Bangalore,Mobile,Wallet,5,True
+100320,786,131587.0,2026-02-11 23:37:58,Electronics,Pune,POS,Net Banking,2,False
+100321,1303,29260.03,2026-02-23 11:07:49,Luxury,Hyderabad,Web,Card,4,False
+100322,1914,78127.4,2026-01-12 06:37:16,Food,Chennai,POS,Wallet,3,False
+100323,1349,63242.67,2026-02-08 12:43:46,Jewelry,Pune,Mobile,Card,4,False
+100324,904,86505.95,2026-02-19 14:04:41,Jewelry,Bangalore,POS,Wallet,4,False
+100325,1331,114289.55,2026-04-09 03:25:23,Food,Bangalore,Web,Net Banking,0,False
+100326,1496,51864.47,2026-01-13 18:41:12,Jewelry,Chennai,POS,Card,0,False
+100327,742,58326.98,2026-06-05 00:42:13,Luxury,Delhi,POS,Net Banking,3,True
+100328,661,107094.02,2026-06-18 16:44:36,Electronics,Bangalore,Web,Wallet,5,False
+100329,1433,122237.5,2026-02-26 07:29:13,Jewelry,Pune,POS,Net Banking,0,False
+100330,1330,37097.37,2026-03-20 03:03:20,Food,Mumbai,Web,UPI,3,False
+100331,1889,104152.63,2026-02-25 09:28:21,Food,Mumbai,Mobile,Wallet,2,False
+100332,1505,140372.36,2026-06-10 00:14:28,Luxury,Pune,Mobile,Wallet,3,True
+100333,1293,104365.17,2026-06-01 09:31:32,Jewelry,Pune,Web,Card,1,False
+100334,1079,42311.6,2026-02-07 00:25:23,Food,Mumbai,Web,Net Banking,4,False
+100335,1535,127380.95,2026-04-05 12:05:30,Electronics,Bangalore,Mobile,Card,5,False
+100336,1263,102123.49,2026-02-27 03:08:54,Luxury,Bangalore,Mobile,UPI,2,False
+100337,1005,91183.69,2026-01-05 15:22:25,Jewelry,Pune,POS,Wallet,0,False
+100338,1935,139203.48,2026-01-08 20:26:41,Food,Hyderabad,POS,Card,0,False
+100339,1440,56976.0,2026-04-16 15:23:03,Jewelry,Bangalore,Mobile,Card,1,False
+100340,1939,112038.23,2026-01-11 03:29:18,Electronics,Hyderabad,Mobile,UPI,5,True
+100341,1868,56731.99,2026-03-25 16:06:42,Electronics,Chennai,Web,UPI,1,False
+100342,845,27365.01,2026-06-11 09:06:48,Jewelry,Hyderabad,Mobile,Net Banking,1,False
+100343,1116,34224.19,2026-04-04 07:02:55,Food,Pune,Web,Card,5,False
+100344,895,742.23,2026-05-19 09:52:41,Food,Pune,Web,Net Banking,3,False
+100345,691,29861.43,2026-05-22 08:56:41,Food,Bangalore,POS,Wallet,4,False
+100346,977,108631.79,2026-06-18 17:12:54,Jewelry,Mumbai,Web,Card,2,False
+100347,673,104640.76,2026-04-27 15:38:35,Electronics,Pune,Web,Net Banking,4,False
+100348,784,38331.82,2026-01-06 02:25:37,Jewelry,Pune,Mobile,Wallet,4,False
+100349,1635,121272.83,2026-03-19 11:06:05,Electronics,Bangalore,POS,UPI,4,False
+100350,603,81480.04,2026-03-23 16:05:13,Luxury,Chennai,Mobile,Net Banking,3,False
+100351,1238,65674.72,2026-06-14 08:53:12,Electronics,Bangalore,Web,UPI,5,False
+100352,1723,145510.84,2026-05-27 13:55:59,Luxury,Delhi,Web,Card,2,False
+100353,1935,73831.43,2026-01-27 12:05:21,Food,Delhi,Web,Card,1,False
+100354,688,99964.4,2026-01-29 10:19:26,Luxury,Delhi,POS,Net Banking,1,False
+100355,883,82068.9,2026-05-15 06:00:54,Jewelry,Bangalore,Mobile,Wallet,5,False
+100356,1987,120405.58,2026-03-05 21:12:16,Electronics,Delhi,POS,Net Banking,4,False
+100357,1864,107450.4,2026-05-23 05:46:27,Luxury,Bangalore,POS,Card,3,False
+100358,1858,74814.22,2026-03-02 08:13:41,Electronics,Bangalore,Web,UPI,5,False
+100359,1629,27981.29,2026-04-09 19:49:24,Electronics,Delhi,Mobile,Wallet,5,False
+100360,874,90815.22,2026-01-15 16:55:23,Jewelry,Hyderabad,POS,Wallet,2,False
+100361,1652,95421.84,2026-06-24 08:35:32,Electronics,Pune,POS,Wallet,2,False
+100362,798,11867.87,2026-05-18 15:37:30,Jewelry,Delhi,Web,Net Banking,5,False
+100363,750,16583.9,2026-03-21 20:40:34,Luxury,Hyderabad,Mobile,Wallet,2,False
+100364,1034,34804.78,2026-03-09 20:27:11,Food,Bangalore,Mobile,Card,4,False
+100365,1690,38659.1,2026-02-25 20:54:06,Luxury,Mumbai,Web,UPI,0,False
+100366,835,117410.31,2026-05-16 04:56:03,Food,Delhi,Mobile,Net Banking,4,True
+100367,990,133710.9,2026-03-02 07:48:10,Electronics,Mumbai,Mobile,Card,3,False
+100368,909,70967.51,2026-05-31 11:32:45,Jewelry,Mumbai,POS,Net Banking,0,False
+100369,1605,1068.16,2026-06-10 02:42:25,Jewelry,Hyderabad,POS,UPI,4,False
+100370,692,111745.01,2026-03-14 14:21:34,Jewelry,Bangalore,Mobile,Net Banking,3,False
+100371,1305,136643.5,2026-05-11 18:53:20,Luxury,Chennai,Mobile,UPI,3,False
+100372,1319,53106.78,2026-01-03 10:37:47,Food,Chennai,POS,Card,3,False
+100373,1752,24978.77,2026-05-04 18:18:21,Luxury,Mumbai,POS,Card,4,False
+100374,663,125701.53,2026-04-02 15:31:00,Jewelry,Mumbai,Mobile,Card,4,False
+100375,756,66732.19,2026-06-12 10:40:22,Electronics,Bangalore,Mobile,Card,1,False
+100376,1655,123426.3,2026-04-29 13:02:17,Food,Mumbai,Mobile,Card,5,False
+100377,1763,68327.39,2026-04-17 07:46:29,Luxury,Bangalore,Web,UPI,0,False
+100378,1890,70184.81,2026-01-21 16:22:17,Luxury,Delhi,POS,Card,5,False
+100379,967,101869.89,2026-03-10 18:13:41,Electronics,Pune,Mobile,Card,1,False
+100380,1734,16462.37,2026-05-08 10:36:07,Jewelry,Pune,Mobile,UPI,4,False
+100381,1036,25978.41,2026-05-11 13:41:35,Food,Bangalore,POS,Card,2,False
+100382,1590,16248.2,2026-04-22 21:37:15,Food,Bangalore,Web,UPI,2,False
+100383,1395,39001.77,2026-01-31 00:57:20,Food,Delhi,Mobile,Card,5,False
+100384,1464,73286.38,2026-06-20 17:45:03,Jewelry,Pune,Web,Net Banking,1,False
+100385,1755,116744.15,2026-06-21 07:18:26,Luxury,Bangalore,POS,Card,5,False
+100386,1505,24057.64,2026-05-01 10:21:01,Food,Chennai,Mobile,Wallet,4,False
+100387,1520,76457.85,2026-03-13 21:38:59,Jewelry,Chennai,Web,Net Banking,2,False
+100388,719,102053.09,2026-06-09 09:48:41,Food,Bangalore,Web,Net Banking,3,False
+100389,1912,15818.3,2026-01-05 08:47:41,Luxury,Mumbai,Mobile,UPI,2,False
+100390,1744,108104.2,2026-04-02 12:56:26,Jewelry,Pune,Mobile,Net Banking,2,False
+100391,948,133769.37,2026-04-27 15:27:29,Jewelry,Bangalore,Web,Card,1,False
+100392,1166,66927.54,2026-05-28 22:00:37,Jewelry,Pune,Web,Card,2,False
+100393,585,93895.49,2026-01-04 08:53:26,Luxury,Mumbai,POS,Wallet,5,False
+100394,1688,70793.98,2026-04-19 20:26:38,Electronics,Chennai,Web,UPI,2,False
+100395,1879,33926.6,2026-03-11 10:18:01,Luxury,Hyderabad,Web,Net Banking,2,False
+100396,1589,97826.74,2026-04-03 02:13:35,Luxury,Pune,POS,UPI,5,True
+100397,1140,62068.42,2026-04-04 15:51:10,Luxury,Mumbai,Web,Wallet,3,False
+100398,1064,111274.45,2026-04-16 06:00:51,Electronics,Hyderabad,POS,Wallet,3,False
+100399,1477,39200.67,2026-05-02 04:33:57,Jewelry,Bangalore,POS,UPI,0,False
+100400,1580,93667.17,2026-03-24 09:24:54,Food,Mumbai,Web,Net Banking,3,False
+100401,1638,135110.18,2026-05-24 23:36:51,Jewelry,Bangalore,Mobile,Wallet,4,False
+100402,888,98246.5,2026-06-06 07:11:25,Food,Bangalore,Mobile,UPI,3,False
+100403,512,84819.62,2026-06-14 20:32:48,Electronics,Chennai,Web,UPI,1,False
+100404,1049,111735.24,2026-03-25 11:45:03,Food,Delhi,Web,Wallet,2,False
+100405,622,15025.63,2026-01-09 22:41:05,Electronics,Delhi,Mobile,UPI,2,False
+100406,847,124535.64,2026-06-08 20:24:16,Jewelry,Mumbai,POS,Net Banking,5,False
+100407,1758,41939.4,2026-02-27 14:46:15,Electronics,Hyderabad,POS,Net Banking,4,False
+100408,1913,83252.48,2026-06-13 20:58:38,Electronics,Bangalore,Mobile,Card,3,False
+100409,1668,128930.04,2026-01-11 12:12:40,Electronics,Bangalore,Mobile,Net Banking,2,False
+100410,843,70168.33,2026-03-12 19:15:04,Jewelry,Chennai,POS,Wallet,2,False
+100411,1544,8347.44,2026-01-02 01:08:17,Jewelry,Bangalore,Mobile,Net Banking,0,False
+100412,1108,8191.62,2026-03-02 02:16:47,Luxury,Chennai,POS,Net Banking,2,False
+100413,1885,35577.95,2026-06-13 07:32:22,Jewelry,Delhi,Web,Net Banking,0,False
+100414,1425,22155.8,2026-04-14 02:23:19,Food,Hyderabad,Mobile,UPI,0,False
+100415,1065,100139.35,2026-02-21 06:47:56,Food,Chennai,Mobile,Net Banking,4,False
+100416,896,18520.08,2026-02-17 11:20:20,Electronics,Bangalore,POS,UPI,0,False
+100417,904,79612.64,2026-05-02 22:57:09,Food,Pune,POS,UPI,5,False
+100418,976,7911.09,2026-03-05 00:58:34,Luxury,Chennai,Mobile,Net Banking,2,False
+100419,1067,2481.57,2026-01-02 04:58:47,Food,Chennai,Web,Card,0,False
+100420,564,45809.06,2026-05-18 11:34:01,Luxury,Mumbai,Mobile,Net Banking,3,False
+100421,1564,29983.42,2026-05-17 06:27:09,Jewelry,Bangalore,Web,UPI,5,False
+100422,1226,25375.51,2026-04-13 04:08:51,Food,Bangalore,Mobile,Card,3,False
+100423,1709,67648.87,2026-05-11 12:40:10,Food,Mumbai,POS,Net Banking,3,False
+100424,1744,79507.93,2026-05-12 16:31:06,Food,Bangalore,Web,UPI,1,False
+100425,1874,56125.27,2026-02-04 23:54:26,Food,Pune,Mobile,Net Banking,1,False
+100426,1415,98987.81,2026-02-18 13:27:28,Food,Hyderabad,Web,Net Banking,5,False
+100427,1735,1028.58,2026-06-22 16:01:06,Jewelry,Bangalore,Mobile,Card,5,False
+100428,1837,7347.03,2026-06-07 06:27:14,Luxury,Bangalore,Web,Card,0,False
+100429,1510,102794.91,2026-03-25 20:00:38,Food,Pune,POS,Card,0,False
+100430,656,82735.33,2026-06-20 02:57:15,Luxury,Delhi,Mobile,Net Banking,0,False
+100431,1602,59954.07,2026-02-13 13:05:32,Electronics,Delhi,Mobile,Wallet,3,False
+100432,1149,67203.15,2026-01-26 04:36:21,Luxury,Delhi,Web,Card,4,True
+100433,910,79977.19,2026-04-22 07:57:51,Food,Pune,Mobile,Card,5,False
+100434,1173,10521.92,2026-01-04 17:15:10,Food,Bangalore,Web,Wallet,0,False
+100435,1302,15021.71,2026-04-06 08:26:43,Food,Pune,Web,UPI,4,False
+100436,1485,12223.57,2026-05-14 15:30:57,Food,Hyderabad,Mobile,UPI,5,False
+100437,1528,63960.54,2026-01-10 06:15:16,Food,Hyderabad,Mobile,Net Banking,1,False
+100438,839,119860.67,2026-05-23 14:45:32,Jewelry,Delhi,Web,UPI,3,False
+100439,741,136372.68,2026-01-10 16:06:34,Electronics,Delhi,Mobile,Wallet,3,False
+100440,1770,116486.74,2026-01-29 01:32:29,Luxury,Delhi,POS,Net Banking,4,True
+100441,1230,9063.26,2026-05-31 13:37:52,Luxury,Pune,Mobile,Card,4,False
+100442,831,42804.22,2026-01-20 02:14:07,Luxury,Bangalore,Web,Wallet,5,False
+100443,523,113863.6,2026-03-10 04:21:51,Electronics,Delhi,Web,UPI,0,False
+100444,1606,64546.01,2026-06-03 12:15:20,Electronics,Delhi,POS,UPI,1,False
+100445,641,58579.45,2026-03-28 17:39:56,Food,Chennai,POS,Wallet,4,False
+100446,1269,77542.76,2026-03-09 23:06:38,Electronics,Bangalore,POS,Card,5,False
+100447,583,53726.59,2026-04-16 21:19:21,Food,Hyderabad,Web,UPI,2,False
+100448,1944,35119.32,2026-02-23 02:20:34,Luxury,Mumbai,Mobile,UPI,3,False
+100449,1605,30204.69,2026-02-25 22:53:44,Luxury,Pune,Mobile,Wallet,3,False
+100450,1252,48047.49,2026-05-03 06:04:08,Jewelry,Chennai,POS,Net Banking,5,False
+100451,574,36734.15,2026-04-14 01:31:56,Luxury,Hyderabad,POS,Net Banking,0,False
+100452,767,48220.38,2026-04-17 21:53:12,Food,Delhi,Web,UPI,2,False
+100453,508,117067.58,2026-06-15 05:08:00,Electronics,Delhi,Web,Wallet,5,False
+100454,1299,42124.79,2026-02-07 16:22:53,Electronics,Pune,Web,Card,0,False
+100455,1918,76713.59,2026-03-21 18:02:04,Food,Hyderabad,Web,Net Banking,4,False
+100456,1391,118418.67,2026-03-07 01:59:53,Luxury,Pune,Web,UPI,3,True
+100457,931,53906.35,2026-03-23 22:07:54,Electronics,Chennai,POS,Wallet,1,False
+100458,1176,77705.4,2026-02-04 17:05:48,Electronics,Delhi,Web,UPI,5,False
+100459,1795,96005.2,2026-01-28 15:23:24,Electronics,Mumbai,Mobile,Net Banking,2,False
+100460,1416,94104.56,2026-01-20 14:57:14,Electronics,Hyderabad,Mobile,Wallet,1,False
+100461,1699,96405.11,2026-02-01 23:18:41,Electronics,Pune,Web,Card,0,False
+100462,1434,143146.06,2026-03-22 20:52:00,Jewelry,Pune,Web,Net Banking,5,False
+100463,1300,97124.51,2026-06-20 01:36:03,Food,Delhi,Mobile,UPI,2,False
+100464,579,120405.85,2026-02-02 18:02:54,Jewelry,Chennai,Web,Wallet,5,False
+100465,937,55909.24,2026-05-28 10:09:31,Luxury,Chennai,POS,Wallet,5,False
+100466,1121,82058.5,2026-01-19 21:54:21,Luxury,Bangalore,POS,Wallet,5,False
+100467,1443,31298.4,2026-06-17 08:14:24,Electronics,Hyderabad,POS,Net Banking,4,False
+100468,1684,12509.89,2026-05-06 15:17:44,Electronics,Bangalore,Web,Net Banking,4,False
+100469,1622,41808.82,2026-02-18 22:39:33,Jewelry,Mumbai,Mobile,Card,4,False
+100470,627,72287.02,2026-05-18 20:04:28,Food,Pune,Web,Wallet,5,False
+100471,1946,40620.73,2026-06-22 10:54:51,Luxury,Chennai,Web,Net Banking,3,False
+100472,1187,57000.07,2026-03-07 15:57:43,Food,Hyderabad,Web,Net Banking,2,False
+100473,1531,83499.71,2026-04-02 09:29:09,Jewelry,Pune,Mobile,Net Banking,0,False
+100474,1061,138001.84,2026-06-19 17:22:23,Jewelry,Delhi,Web,Net Banking,4,False
+100475,1323,105167.45,2026-06-06 13:18:52,Food,Chennai,Web,Card,3,False
+100476,1731,133960.11,2026-03-10 08:16:29,Jewelry,Bangalore,POS,Wallet,1,False
+100477,1514,46154.14,2026-03-12 22:59:00,Luxury,Delhi,Web,UPI,3,False
+100478,1729,70540.05,2026-05-13 04:40:03,Jewelry,Bangalore,Mobile,Wallet,0,False
+100479,1568,27350.15,2026-02-13 15:12:01,Luxury,Hyderabad,Mobile,Card,1,False
+100480,532,71128.01,2026-05-07 10:36:54,Food,Chennai,POS,UPI,0,False
+100481,1952,29603.46,2026-02-03 21:48:21,Luxury,Chennai,POS,UPI,0,False
+100482,945,112120.97,2026-03-24 11:22:13,Luxury,Bangalore,POS,Wallet,2,False
+100483,743,19993.87,2026-05-15 23:09:05,Electronics,Chennai,Web,UPI,1,False
+100484,936,6820.94,2026-01-30 20:35:43,Jewelry,Mumbai,Web,UPI,4,False
+100485,1573,29408.96,2026-01-22 07:22:35,Food,Bangalore,Web,Net Banking,4,False
+100486,1731,22444.97,2026-03-02 20:28:38,Luxury,Hyderabad,Web,Wallet,0,False
+100487,858,4461.01,2026-03-24 10:48:25,Electronics,Delhi,Mobile,Net Banking,1,False
+100488,642,45359.95,2026-03-01 19:24:46,Food,Hyderabad,Mobile,Wallet,0,False
+100489,892,52421.45,2026-03-04 20:10:55,Jewelry,Pune,Mobile,UPI,4,False
+100490,1578,10756.8,2026-03-21 18:04:11,Electronics,Bangalore,Mobile,Card,5,False
+100491,803,109873.93,2026-05-20 05:32:31,Luxury,Mumbai,Web,Net Banking,0,False
+100492,1960,111169.04,2026-02-28 04:51:33,Jewelry,Hyderabad,Web,Card,5,True
+100493,1100,26440.12,2026-02-02 20:38:56,Jewelry,Bangalore,Mobile,Wallet,5,False
+100494,870,18929.51,2026-01-05 01:12:50,Jewelry,Hyderabad,POS,Wallet,4,False
+100495,802,94380.14,2026-05-27 05:14:57,Jewelry,Hyderabad,Mobile,Wallet,1,False
+100496,1333,20601.99,2026-04-06 01:11:15,Food,Mumbai,Mobile,UPI,2,False
+100497,1147,113565.34,2026-04-16 03:55:27,Jewelry,Mumbai,Web,Wallet,1,False
+100498,1402,145720.48,2026-03-27 22:54:25,Jewelry,Delhi,Web,UPI,5,False
+100499,607,135716.09,2026-03-15 15:27:17,Food,Delhi,Mobile,Card,1,False
+100500,1539,60888.37,2026-05-10 14:23:16,Luxury,Hyderabad,Mobile,Net Banking,0,False
