@@ -228,7 +228,7 @@ LIMIT 10;
 ![Fraud Pattern Analysis](images/fraud_pattern_analysis.png)
 
 ### Risk Intelligence & User Behavior
-![Risk Intelligence and User Behavior](images/risk_intelligence_user_behavior.png)
+![Risk Intelligence and User Behavior](/images/risk_intelligence_&_user_behaviour.png)
 
 ---
 
